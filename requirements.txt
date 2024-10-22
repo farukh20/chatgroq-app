@@ -6,5 +6,4 @@ PyPDF2
 python-dotenv
 langchain_community
 langchain_core
-PyPDF2
 pypdf
