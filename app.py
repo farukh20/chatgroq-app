@@ -15,7 +15,8 @@ import time
 load_dotenv()
 
 # Load API keys
-groq_api_key = os.environ['GROQ_API_KEY']
+groq_api_key = os.getenv('GROQ_API_KEY')
+st.write("API Key:", groq_api_key) 
 
 st.title("ChatGroq with Llama 3")
 
