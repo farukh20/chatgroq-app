@@ -4,3 +4,5 @@ langchain-groq
 langchain-ollama
 PyPDF2
 python-dotenv
+langchain_community
+langchain_core
